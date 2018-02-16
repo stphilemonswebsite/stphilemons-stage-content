@@ -1,6 +1,20 @@
 [
-    "Welcome",
-    "Sundays",
-    "Adults",
-    "Resources"
+    {
+        "name": "Welcome",
+        "sections": [
+            "section1"
+        ]
+    },
+    {
+        "name": "Sundays",
+        "sections": [
+            "section1"
+        ]
+    },
+    {
+        "name": "Adults",
+        "sections": [
+            "section1"
+        ]
+    }
 ]
