@@ -8,13 +8,16 @@
     {
         "name": "Sundays",
         "sections": [
-            "section1"
+            "section1",
+            "section2"
         ]
     },
     {
         "name": "Adults",
         "sections": [
-            "section1"
+            "section1",
+            "section2",
+            "section3"
         ]
     }
 ]
