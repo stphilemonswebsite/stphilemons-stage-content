@@ -1,0 +1,14 @@
+[
+    {
+        "text": "Some content",
+        "background": {
+            "backgroundImage": "url('../../Images/Welcome Banner.JPG')",
+        }
+    },
+    {
+        "text": "Some content 2",
+        "background": {
+            "backgroundColor": "blue"
+        }
+    }
+]

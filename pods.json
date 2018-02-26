@@ -2,23 +2,16 @@
     {
         "name": "Welcome",
         "sections": [
-            "section1"
         ]
     },
     {
         "name": "Sundays",
         "sections": [
-            "section1",
-            "section2"
         ]
     },
     {
         "name": "Adults",
         "sections": [
-            "section1",
-            "section2",
-            "section3",
-            "section4"
         ]
     }
 ]
