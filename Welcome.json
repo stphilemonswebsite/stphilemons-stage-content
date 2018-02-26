@@ -2,7 +2,7 @@
     {
         "text": "Some content",
         "background": {
-            "backgroundImage": "url('../../Images/Welcome Banner.JPG')",
+            "backgroundImage": "url('../../Images/Welcome Banner.JPG')"
         }
     },
     {
