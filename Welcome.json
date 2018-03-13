@@ -1,14 +1,1 @@
-[
-    {
-        "text": "Some content",
-        "background": {
-            "backgroundImage": "url('../../Images/Welcome Banner.JPG')"
-        }
-    },
-    {
-        "text": "Some content 2",
-        "background": {
-            "backgroundColor": "#4E22B2"
-        }
-    }
-]
+[{"text":"Some content","background":{"backgroundImage":"url('../../Images/Welcome Banner.JPG')"}},{"text":"Some content 2","background":{"backgroundColor":"#4E22B2"}}]
