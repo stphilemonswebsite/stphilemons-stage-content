@@ -1,1 +1,23 @@
-[{"text":"","background":{"backgroundImage":"https://stagestphilemons.blob.core.windows.net/image-container/Home.png","backgroundImageWidth":2000,"backgroundImageHeight":1340,"usePicture":true,"useColour":false},"hide":false},{"name":"menucontent-component","contentData":{"items":[]},"hide":false},{"text":"<h1>Sunday Services</h1>","background":{"backgroundColor":"#1C92D6","backgroundImage":"https://stagestphilemons.blob.core.windows.net/image-container/Biblereading.png","backgroundImageWidth":2000,"backgroundImageHeight":1333,"usePicture":true,"useColour":false},"hide":false},{"text":"<p><span style=\"color: #ccffcc;\">Some interesting information about stuff</span></p>","background":{"backgroundColor":"#3D5F9B","backgroundImage":"","usePicture":false,"useColour":true},"hide":false},{"name":"textcontent-component","contentData":{"text":"<p>Welcome to St Philimon's Church in Toxteth</p>","backgroundColor":"white"},"hide":false}]
+[
+    {
+    "name": "imagefadercontent-component",
+    "contentData": {
+    },
+    "hide": false
+  },
+  {
+    "name": "menucontent-component",
+    "contentData": {
+      "items": []
+    },
+    "hide": false
+  },
+  {
+    "name": "textcontent-component",
+    "contentData": {
+      "text": "<p>Welcome to St Philimon's Church in Toxteth</p>",
+      "backgroundColor": "white"
+    },
+    "hide": false
+  }
+]
