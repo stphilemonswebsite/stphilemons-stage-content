@@ -1,1 +1,14 @@
-[{"text":"<p>Content update</p>","background":{"backgroundColor":"#9393B8","backgroundImage":"https://stagestphilemons.blob.core.windows.net/image-container/Screen%20Shot%202018-06-01%20at%2017.02.30.png","usePicture":true,"useColour":false,"backgroundImageWidth":742,"backgroundImageHeight":457,"mobileBackgroundImage":"https://stagestphilemons.blob.core.windows.net/image-container/Screen%20Shot%202018-06-01%20at%2017.02.50.png","mobileBackgroundImageWidth":372,"mobileBackgroundImageHeight":644}},{"text":"<p><span style=\"color: #ffffff;\">TALKS HERE and more and more talks. So many talks you wouldn't believe and more still if you wanted any.</span></p>\n<p>&nbsp;</p>","background":{"backgroundColor":"#000000","backgroundImage":"","usePicture":false,"useColour":true}}]
+[
+	{
+		"name": "menucontent-component",
+		"contentData": {
+			"items": []
+		},
+		"hide": false
+	}, {
+		"name": "calendarcontent-component",
+		"contentData": {
+		},
+		"hide": true
+	}
+]
