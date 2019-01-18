@@ -1,14 +1,1 @@
-[
-	{
-		"name": "menucontent-component",
-		"contentData": {
-			"items": []
-		},
-		"hide": false
-	}, {
-		"name": "calendarcontent-component",
-		"contentData": {
-		},
-		"hide": true
-	}
-]
+[{"name":"menucontent-component","contentData":{"items":[]},"hide":false,"backgroundColor":null,"textColor":null,"showInMenu":null,"menuText":null,"menuIcon":null},{"name":"headingcontent-component","contentData":{"text":"Calendar"},"hide":false,"showInMenu":true,"menuText":"Calendar","menuIcon":null},{"name":"calendarcontent-component","contentData":{},"hide":false,"backgroundColor":null,"textColor":null,"showInMenu":false,"menuText":"","menuIcon":null}]
