@@ -1,0 +1,16 @@
+[
+	{
+		"name": "textcontent-component",
+		"contentData": {
+			"text": "<p>Placeholder text</p>",
+			"backgroundColor": "white",
+			"useArabicFont": true
+		},
+		"hide": false,
+		"showInMenu": null,
+		"menuText": null,
+		"menuIcon": null,
+		"backgroundColor": null,
+		"textColor": null
+	}
+]
