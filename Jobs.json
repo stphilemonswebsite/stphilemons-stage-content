@@ -1,16 +1,1 @@
-[
-	{
-		"name": "textcontent-component",
-		"contentData": {
-			"text": "<p>Placeholder text</p>",
-			"backgroundColor": "white",
-			"useArabicFont": true
-		},
-		"hide": false,
-		"showInMenu": null,
-		"menuText": null,
-		"menuIcon": null,
-		"backgroundColor": null,
-		"textColor": null
-	}
-]
+[{"name":"textcontent-component","contentData":{"text":"<p>Placeholder text with an extra test</p>","backgroundColor":"white","useArabicFont":true},"hide":false,"showInMenu":null,"menuText":null,"menuIcon":null,"backgroundColor":null,"textColor":null},{"name":"expandablecontent-component","contentData":{"title":"An expandable title","text":"<p>A body</p>","backgroundColor":"white","summary":"<p>A summary</p>"},"hide":false,"showInMenu":false,"menuText":null,"menuIcon":null}]
